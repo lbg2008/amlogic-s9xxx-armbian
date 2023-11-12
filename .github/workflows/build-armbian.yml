@@ -189,7 +189,7 @@ on:
       builder_name:
         description: "Set Armbian builder signature."
         required: false
-        default: "ellis"
+        default: "lbg2008"
         type: choice
         options:
           - ophub
